@@ -27,12 +27,3 @@ A simple remote controlled boat using arduino...with multiple sensors for simple
         - Electrical Tape
         - BreadBoard
 
-## Instructions
-
-        -
-        -
-        -
-        -
-        -
-        -
-        -
