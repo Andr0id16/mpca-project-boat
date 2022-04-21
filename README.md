@@ -8,8 +8,7 @@ A simple remote controlled boat using arduino...with multiple sensors for simple
 
         - Gas Sensor(MQ2)
         - Humidity and Temperature Sensor(DHT11)
-        - Transmitter(NRF24L01)
-        - Reciever(NRF24L01)
+        - Bluetooth Module(HC-05)
 
 ### 2. Electrical components:
 
